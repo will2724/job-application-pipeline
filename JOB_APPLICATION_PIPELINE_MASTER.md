@@ -2,28 +2,30 @@
 
 ## Sharod Williams — Active Job Search Tracker
 
-**Last Updated:** March 12, 2026
+**Last Updated:** March 18, 2026
 **Search Start Date:** August 2025
 **Target Roles:** Data Scientist | Data Analyst II+ | Analytics Engineer | ML Engineer
-**Version:** MASTER 1.0 — Consolidated from v1.0 (Feb 28), v3.0 (Mar 5), v4.1 (Mar 5)
+**Version:** MASTER 1.1 — Updated March 18, 2026 from email review (Mar 4–18)
 **Source Files Deprecated:** JOB_APPLICATION_PIPELINE_EXTENDED.md, JOB_APPLICATION_PIPELINE_EXTENDED_v2.md
 
 ---
 
-## PIPELINE SUMMARY — MARCH 6, 2026
+## PIPELINE SUMMARY — MARCH 18, 2026
 
-| Tier                                       | Count | Status                                                                                                                                            |
-| ------------------------------------------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔵 Interview Completed - Awaiting Decision | 1     | MSU Data Resource Analyst I (3/3 completed, awaiting on-site selection)                                                                           |
-| 🔴 Rejected                                | 2     | Domino's Data Governance Analyst (2/27); Domino's Data Scientist Digital Decision Science (3/10)                                                  |
-| 📞 Phone Screen Completed                  | 1     | First National Bank of America AI/ML Engineer (3/9, Nolan/CFS, listed as strong candidate)                                                        |
-| 📞 Phone Screen Scheduled                  | 1     | AAA Life BI Analyst III (McKenzie Korn, Thursday 3/12 at 10:00 AM)                                                                                |
-| 📞 Phone Screen Completed                  | 2     | FNBA AI/ML Engineer (3/9, Nolan/CFS, strong candidate); OneMagnify Statistical Modeler (3/6, Christina Kempley, went well, resume to hiring team) |
-| 🟡 Active Advocacy                         | 2     | Stellantis x2 (David Cohle referral)                                                                                                              |
-| 🟢 Applied - Awaiting Response             | 9     | Emory Healthcare, Invenio, Auto-Owners Predictive Modeler, Auto-Owners BI Developer, Buyers Edge, Swayable, Meijer Advanced Analyst II            |
-| 🎯 Ready to Apply - Top Priority           | 5     | Orlando Fintech (88%), Stellantis CV (72%), Capital One Applied AI (87%), IBM AI (85%), IBM Finance DS (82%)                                      |
-| 🔴 Rejected                                | 1     | Domino's Data Governance Analyst                                                                                                                  |
-| ⏸️ Position Closed                       | 2     | General Motors, CVS Health                                                                                                                        |
+| Tier                                       | Count | Status                                                                                                                                                           |
+| ------------------------------------------ | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔵 Interview Scheduled                     | 1     | **⚠️ Abacus Global Management Senior Data Scientist (3/19 at 11:00 AM — TOMORROW)**                                                                            |
+| 🔵 Interview Completed - Awaiting Decision | 1     | MSU Data Resource Analyst I (3/3 completed, awaiting on-site selection)                                                                                          |
+| ⚠️ Assessment Pending — URGENT            | 1     | **FNBA AI/ML Engineer — Codility technical assessment due March 20 at 20:00 UTC**                                                                               |
+| 🟡 Active Advocacy — APPLY NOW            | 3     | General Motors Data Analyst (Crystle Hagler referral 3/18, JR-202604558, 48hr window expires ~3/20); Stellantis x2 (David Cohle referral)                       |
+| ⚠️ Action Required                        | 1     | Stellantis Customer Voice Data Analyst — Additional information needed via ADP portal (email 3/13)                                                               |
+| 📞 Phone Screen Completed                  | 3     | FNBA AI/ML Engineer (3/9, strong candidate); AAA Life BI Analyst III (3/12 with McKenzie Korn, follow-up sent 3/18); OneMagnify Statistical Modeler (3/6)        |
+| 🔴 Rejected                                | 2     | Domino's Data Governance Analyst (2/27); Domino's Data Scientist Digital Decision Science (3/10)                                                                 |
+| ⏸️ On Hold                               | 1     | OneMagnify Statistical Modeler — position on hold, Q2 2026 reassessment (Christina Kempley, 3/13)                                                               |
+| 🟢 Applied - Awaiting Response             | 9     | Emory Healthcare, Invenio, Auto-Owners Predictive Modeler, Auto-Owners BI Developer, Buyers Edge, Swayable, Meijer Advanced Analyst II                           |
+| 🎯 Ready to Apply - Top Priority           | 4     | Capital One Applied AI (87%), IBM AI (85%), IBM Finance DS (82%), Capital One Consumer Credit Risk (78%)                                                         |
+| 🤝 Warm Networking Contact                 | 1     | Morgan Galvan, Verde Capital Management — resume on file, will champion (responded 3/12)                                                                         |
+| ⏸️ Position Closed                       | 1     | CVS Health                                                                                                                                                       |
 
 ---
 
@@ -53,6 +55,16 @@
 - OneMagnify Statistical Modeler: Phone screen completed 3/6 with Christina Kempley. Went well. Resume being passed to hiring team.
 - Abacus Global Management Senior Data Scientist (CF-02): Resume built (v2 docx complete 3/9).
 - CFS profile: Completed.
+
+**Status Changes (March 12-18, 2026):**
+
+- **⚠️ URGENT — FNBA AI/ML Engineer:** Codility technical assessment received 3/13 (reminder 3/16). Due **March 20 at 20:00 UTC**. Contact: eric.tucker@fnba.com. Interview prep also sent by Nolan (CFS) 3/13, suggesting interview to follow.
+- **⚠️ URGENT — General Motors Data Analyst (JR-202604558):** Referred by Crystle Hagler 3/18 (via Workday). Resume sent to Crystle directly same day. Must apply via Workday link within 48 hours (~3/20). Warren, MI. Roles listed: Data Analysis, Data Engineering, Data Science, ML Engineering. Status changed from "Position Closed" → Active Advocacy.
+- **🆕 NEW — Abacus Global Management Senior Data Scientist:** 1st virtual interview scheduled **3/19 at 11:00 AM** (via CFS/Nolan). Orlando, FL (onsite). $130k–$160k + bonus + equity + free healthcare. Interviewers: Armando Cabrera (VP Eng/HM), Dakota Jackson (HR Mgr), Krissy Lubrano (VP HR). Interview prep sent by Nolan 3/13.
+- **AAA Life BI Analyst III:** Phone screen completed 3/12 with McKenzie Korn (as scheduled). Follow-up email sent 3/18 — also expressed interest in AAA Life Senior Data Scientist - Modeling & Analytics role (new posting). McKenzie is point of contact.
+- **OneMagnify Statistical Modeler:** Position placed on hold 3/13 (email from Christina Kempley). Team to potentially reassess in Q2 2026. Sharod replied graciously 3/16. Status → ⏸️ On Hold.
+- **Stellantis Customer Voice Data Analyst:** "Additional Information Needed" email from Stellantis TA on 3/13. Must complete additional questions via ADP portal to advance application.
+- **Morgan Galvan, Verde Capital Management:** Responded to networking email 3/12. Financial Advisor / statistician background. Keeping resume on file and willing to champion Sharod for suitable roles.
 
 ---
 
@@ -137,6 +149,42 @@ MSU strives to provide a flexible work environment and this position has been de
 **Interview Format (from search chair email)**
 
 The interview will be scheduled for 50 minutes and will consist of 2 introductory questions and 5 scored behavioral questions. The behavioral questions are intended to allow us to learn about you through your past experiences and your behavior within those experiences. We are looking for you to speak about a specific situation/task/example, your actions and role, and the result/what happened afterwards. Since not all search committee members may be able to attend all of the interviews, we will request to record the interview, which it will be your choice to allow or not allow this request.
+
+---
+
+### [INT-03] Senior Data Scientist — Abacus Global Management ⚠️ INTERVIEW 3/19
+
+#### Tracking
+
+| Field                    | Details                                                                                     |
+| ------------------------ | ------------------------------------------------------------------------------------------- |
+| **Company**              | Abacus Global Management (formerly Abacus Life, publicly traded since July 2023)            |
+| **Role Title**           | Senior Data Scientist                                                                       |
+| **Location**             | Orlando, FL (Onsite — relocation required)                                                  |
+| **Work Mode**            | Onsite                                                                                      |
+| **Salary**               | $130,000–$160,000 + Bonus + Equity (after 1 yr) + Free Healthcare + 401k + PTO             |
+| **Interview Scheduled**  | **Thursday, March 19, 2026 at 11:00 AM — VIRTUAL (1st round)**                            |
+| **Interviewers**         | Armando Cabrera (VP Engineering / Hiring Manager); Dakota Jackson (HR Manager); Krissy Lubrano (VP HR) |
+| **Status**               | **⚠️ INTERVIEW TOMORROW — Prepare tonight**                                               |
+| **Source**               | CFS / Nolan Balkema (NBalkema@cfstaffing.com, 616.328.6082)                                |
+| **Interview Prep Sent**  | March 13, 2026 by Nolan Balkema                                                             |
+| **Dress Code**           | Business Professional (Full Suit or Button-up shirt)                                        |
+| **Job Type**             | Full Time, Direct-Hire/Permanent                                                            |
+
+#### Company Overview
+
+Abacus Global Management is an alternative asset manager and financial services company specializing in longevity-based financial products, life insurance settlements, and data-driven wealth/asset management. 4 divisions: Abacus Life Solutions (life insurance purchasing), Abacus Asset Group (institutional asset management), ABL Wealth (wealth management powered by 20+ yrs of proprietary longevity data).
+
+#### Key Technical Topics to Prepare
+- Python (pandas, scikit-learn, NumPy), SQL
+- Building, validating, and deploying ML models in production
+- Statistical modeling, experimental design, hypothesis testing
+- Large/complex datasets (structured and unstructured)
+- Cloud platforms (AWS, GCP, or Azure)
+- Visualization (Tableau, Power BI, matplotlib, seaborn)
+
+#### Closing Question (Use at end of interview)
+> "Based on our conversation and now that you've gotten a chance to learn a little more about me — is there anything in my background that would prevent me from further consideration?"
 
 ---
 
