@@ -1,9 +1,9 @@
 # JOB APPLICATION PIPELINE — MASTER
 
-**Last Updated:** March 18, 2026
+**Last Updated:** March 22, 2026
 **Search Start Date:** August 2025
 **Target Roles:** Data Scientist | Data Analyst II+ | Analytics Engineer | ML Engineer
-**Version:** MASTER 2.0 — Full restructure March 18, 2026
+**Version:** MASTER 2.1 — Weekly review March 22, 2026 (Gmail + iMessage)
 
 ---
 
@@ -11,27 +11,26 @@
 
 | Priority | Item | Deadline | Details |
 |---|---|---|---|
-| 🔴 #1 | Abacus Global Mgmt interview | TODAY — 3/19 at 11:00 AM | Virtual, prep tonight |
-| 🔴 #2 | FNBA Codility assessment | March 20, 20:00 UTC | 2 questions, 70 min, Python only |
-| 🔴 #3 | GM Data Analyst application | ~March 20 | Apply via Workday, JR-202604558, referral from Crystle Hagler |
-| 🟡 #4 | Stellantis additional info | ASAP | Complete additional questions via ADP portal |
+| 🔴 #1 | Abacus 2nd Virtual Interview | TOMORROW — 3/23 at 3:00 PM | Virtual Teams; Armando + 2 Sr SWEs + PM; get-to-know-you style |
+| 🔴 #2 | FNBA Final Onsite Interview | Thursday 3/26 at 1:00 PM | In-person, 241 E Saginaw St; whiteboarding + Python (open book); 1.5–2 hrs |
+| 🟡 #3 | Stellantis additional info | ASAP | Complete additional questions via ADP portal |
 
 ---
 
-## PIPELINE AT A GLANCE — MARCH 18, 2026
+## PIPELINE AT A GLANCE — MARCH 22, 2026
 
 | Status | Count | Roles |
 |---|---|---|
-| 🔵 Interview Scheduled — TOMORROW | 1 | Abacus Global Management (3/19 11AM) |
-| 🔵 Interview Completed — Awaiting Decision | 2 | FNBA (3/17 onsite done); MSU (3/3 done) |
-| ⚠️ Assessment Pending | 1 | FNBA Codility — due 3/20 |
+| 🔴 Final Round — This Week | 2 | Abacus (2nd virtual 3/23 3PM); FNBA (final onsite 3/26 1PM) |
+| 🔵 Interview Completed — Awaiting Decision | 1 | MSU (3/3 done) |
+| ✅ Assessment Complete | 1 | FNBA Codility — 100% score |
 | 📞 Phone Screen Completed — Advancing | 1 | AAA Life BI Analyst III (Round 1 pending with Janicia Koh) |
-| 🟡 Active Advocacy — APPLY NOW | 1 | General Motors (Crystle Hagler referral, 48hr window) |
 | 🟡 Active Advocacy | 2 | Stellantis x2 (David Cohle referral) |
+| 🟡 Referral Applied | 1 | General Motors (Crystle Hagler, applied ~3/20) |
 | 🟢 Applied — Awaiting Response | 8 | Emory Healthcare, Invenio, Auto-Owners x2, Buyers Edge, Swayable, Meijer, Mayo Clinic |
 | ⏸️ On Hold | 1 | OneMagnify Statistical Modeler (Q2 2026) |
-| 🎯 To Apply — Priority Queue | 5 | See Section 5 |
-| 🔴 Closed / Rejected | 7 | See Section 6 |
+| 🎯 To Apply — Priority Queue | 4 | See Section 5 |
+| 🔴 Closed / Rejected | 8 | See Section 6 |
 | 🤝 Networking | 1 | Morgan Galvan, Verde Capital Management |
 
 ---
@@ -40,9 +39,9 @@
 
 ### [INT-01] Senior Data Scientist — Abacus Global Management
 
-**Status:** 🔵 INTERVIEW SCHEDULED — TOMORROW 3/19 at 11:00 AM
-**Last Action:** March 13 — Interview prep received from Nolan (CFS); interview confirmed
-**Next Action:** Prep tonight — interview 3/19 at 11:00 AM virtual
+**Status:** 🔴 2ND VIRTUAL INTERVIEW TOMORROW — 3/23 at 3:00 PM
+**Last Action:** March 20 — Armando enjoyed 1st interview; 2nd virtual confirmed for 3/23 at 3PM
+**Next Action:** Prep for 2nd virtual — get-to-know-you style, career walkthrough, tools + project challenges
 
 | Field | Details |
 |---|---|
@@ -61,21 +60,27 @@
 - 3/5 — Submitted via CFS; resume v1 built
 - 3/9 — Resume v2 docx complete; submitted to client
 - 3/13 — Nolan sent interview prep + confirmation of 1st virtual interview
-- 3/19 — 1st virtual interview at 11:00 AM
+- 3/19 — Additional prep info received (AI in medical record analysis; comp + team structure details)
+- 3/19 — **1st virtual interview completed at 2:00 PM** (MS Teams; Nolan joined to admit past lobby)
+- 3/20 — Nolan text: Armando "really enjoyed the conversation"; invited back for 2nd virtual
+- 3/20 — **2nd virtual interview confirmed: Monday 3/23 at 3:00 PM**
 
-#### Interview / Screen Details
+#### Interview Details — Round 2 (3/23 at 3:00 PM)
+- **Format:** Virtual (Microsoft Teams), ~1 hour
+- **Interviewers:** Armando Cabrera (leads), 2 Senior Software Engineers, 1 Project Manager
+- **Style:** Get-to-know-you; similar to Round 1; may dive slightly deeper in some areas
+- **Focus areas:** Career walkthrough, roles/involvement in projects, challenges solved, tools used
+- **Team context:** Entire team has under 10 years experience; collaborative culture
+- **Potential Round 3:** Fly to Orlando onsite if Round 2 goes well (Sharod confirmed willing)
+- **Nolan note:** "I've only had 1 person do the 2nd round thus far" — still early in hiring process
+
+#### Interview Details — Round 1 Recap (3/19)
 - **Format:** Virtual, ~1 hour, 1st round
-- **Date/Time:** Thursday March 19, 2026 at 11:00 AM
-- **Dress Code:** Business Professional (Full Suit or Button-up shirt recommended)
-- **Interviewers:**
-  - Armando Cabrera — VP of Engineering / Hiring Manager (linkedin.com/in/armando-cabrera/)
-  - Dakota Jackson — HR Manager
-  - Krissy Lubrano — VP of HR
-- **Focus:** Career history, resume walkthrough; no deep technical assessment expected
-- **Key Topics to Prepare:** Python (pandas, scikit-learn, NumPy), SQL, ML production deployment, statistical modeling, experimental design, cloud platforms (AWS/GCP/Azure), visualization (Tableau, Power BI, matplotlib, seaborn)
-- **Closing Question:** "Based on our conversation and now that you've gotten a chance to learn a little more about me — is there anything in my background that would prevent me from further consideration?"
+- **Interviewers:** Armando Cabrera (VP Engineering/HM), Dakota Jackson (HR), Krissy Lubrano (VP HR)
+- **Focus:** Career history, resume walkthrough; no deep technical assessment
+- **Outcome:** Armando "really enjoyed the conversation" → advanced to Round 2
 
-**Company Overview:** Abacus Global Management is an alternative asset manager specializing in longevity-based financial products, life insurance settlements, and data-driven wealth management. 4 divisions: Abacus Life Solutions, Abacus Asset Group, ABL Wealth, and their reinsurance/carrier partnership unit.
+**Company Overview:** Abacus Global Management is an alternative asset manager specializing in longevity-based financial products, life insurance settlements, and data-driven wealth management. 4 divisions: Abacus Life Solutions, Abacus Asset Group, ABL Wealth, and their reinsurance/carrier partnership unit. **Key tech use case: AI applied to medical record analysis.**
 
 #### Role Summary
 - Lead design, development, deployment of ML models and advanced analytics in production
@@ -89,9 +94,9 @@
 
 ### [INT-02] AI/ML Engineer — First National Bank of America
 
-**Status:** 🔵 ONSITE INTERVIEW COMPLETED 3/17 — Codility assessment still due 3/20
-**Last Action:** March 17 — Onsite interview with Matt Crockett (VP AI/ML) at 3:00 PM
-**Next Action:** Complete Codility assessment — due March 20 at 20:00 UTC (2 questions, 70 min, Python only)
+**Status:** 🔴 FINAL ONSITE INTERVIEW — Thursday 3/26 at 1:00 PM (IN-PERSON)
+**Last Action:** March 20 — 100% Codility score; final onsite confirmed 3/26; Matt gave strong feedback
+**Next Action:** Prep for whiteboarding + Python problem solving; open book (Google & Claude ok; focus on reasoning not memorization)
 
 | Field | Details |
 |---|---|
@@ -114,15 +119,23 @@
 - 3/13 — Codility assessment emailed (by eric.tucker@fnba.com). Due 3/20 at 20:00 UTC.
 - 3/13 — Nolan sent full interview prep for onsite interview
 - 3/16 — Codility reminder email received
-- 3/17 — ONSITE interview at 3:00 PM with Matt Crockett (VP AI/ML) at 241 E Saginaw St, East Lansing MI
+- 3/17 — **1st onsite interview at 3:00 PM** with Matt Crockett (VP AI/ML) at 241 E Saginaw St, East Lansing MI
+- 3/20 — **Codility result: 100% score**
+- 3/20 — Nolan text: Matt felt interview went very well; described Sharod as "very easy to talk to, much easier than a couple of his other interviews"
+- 3/20 — **Final onsite confirmed: Thursday 3/26 at 1:00 PM** (1.5–2 hrs)
+- 3/20 — Final round format details received from Nolan (see below)
 
-#### Interview / Screen Details
-- **Format:** Onsite, business professional dress
-- **Address:** 241 E Saginaw St, East Lansing, MI 48823 (guest parking near front, check in at front desk for Matt Crockett)
-- **Interviewers:** Matt Crockett (VP of AI/Machine Learning) + TBD team members
-- **Focus:** Walk-through of background and career history; career progression and accomplishments in each role
-- **Key Topics:** Python, RAG, data pipelines, LLM integration, ML frameworks (scikit-learn, PyTorch, TensorFlow), data libraries (pandas, NumPy, SciPy), personal projects/research examples, mathematics/statistics background
-- **Codility Assessment:** 2 questions, 70-minute limit, Python only, common ML tools/problem-solving, sequential question order
+#### Interview Details — Final Onsite (3/26 at 1:00 PM)
+- **Format:** In-person, 1.5–2 hours, business professional dress
+- **Address:** 241 E Saginaw St, East Lansing, MI 48823 (guest parking near front; check in at front desk for Matt Crockett)
+- **Interviewers:** Matt Crockett (VP AI/ML) + additional team members
+- **Hands-on component:** Whiteboarding + solving a problem with Python on a laptop
+  - **Open book:** Google and Claude allowed to assist; NOT to provide a full solution
+  - Matt does NOT want the focus on memorizing scikit-learn commands — focus on reasoning and problem-solving approach
+- **Matt's feedback on Sharod:** "Very easy to talk to, quite frankly much easier than a couple of his other interviews. He's hoping your final interview goes well."
+
+#### Codility Assessment (Completed — 100%)
+- 2 questions, 70-minute limit, Python only, common ML tools/problem-solving, sequential question order
 
 #### Role Summary
 - Design, build, deploy AI solutions: document intelligence, knowledge search (RAG), process automation
@@ -229,9 +242,9 @@
 
 ### [ADV-01] Data Analyst — General Motors
 
-**Status:** 🟡 ACTIVE REFERRAL — Apply via Workday ASAP (48-hr window expires ~3/20)
-**Last Action:** March 18 — Referred by Crystle Hagler; resume sent directly to Crystle
-**Next Action:** Apply via GM Workday link for JR-202604558 immediately — deadline ~3/20
+**Status:** 🟡 APPLIED VIA REFERRAL — Awaiting response
+**Last Action:** ~March 20 — Application submitted via GM Workday (within 48-hr referral window)
+**Next Action:** Await recruiter contact from GM
 
 | Field | Details |
 |---|---|
@@ -250,7 +263,7 @@
 - 3/18 — Crystle Hagler submitted referral to GM via Workday for multiple roles: Data Analysis, Data Engineering, Data Governance, Data Management & Analytics, Data Science, ML Engineering
 - 3/18 — GM Workday email received confirming referral and providing Workday application link for Data Analyst JR-202604558
 - 3/18 — Resume sent directly to crystle.hagler@gm.com with thank-you note
-- ~3/20 — Application deadline (48-hour window from referral)
+- ~3/20 — Application submitted via Workday within 48-hr referral window
 
 **Note:** GM had previously been listed as "Position Closed" — this referral reopens the opportunity under an active posting.
 
@@ -636,6 +649,22 @@ Full JD archived in source documents.
 
 ---
 
+### [REJ-03] Data Engineer / Sr Data Engineer — The Hartford
+
+**Status:** 🔴 Rejected
+**Outcome:** Rejected March 18, 2026 via automated Workday email — competitive applicant pool
+
+| Field | Details |
+|---|---|
+| **Company** | The Hartford |
+| **Role Title** | Data Engineer / Sr Data Engineer |
+| **Job Req** | R2523332 |
+| **Application Date** | Prior to 3/18 |
+| **Rejection Date** | March 18, 2026 |
+| **Rejection Reason** | "Due to the number of interested candidates, we are unable to move forward with your application at this time." |
+
+---
+
 ### [CLO-01] CVS Health (position closed)
 
 **Status:** ⏸️ Closed
@@ -729,6 +758,7 @@ Full JD archived in source documents.
 
 | Date | Version | Changes |
 |---|---|---|
+| March 22, 2026 | 2.1 | Sunday weekly review (Gmail + iMessage); FNBA: 100% Codility, final onsite 3/26 confirmed, Matt feedback captured; Abacus: 1st interview done 3/19, 2nd virtual 3/23 confirmed, Round 3 Orlando onsite possible; GM referral marked applied; The Hartford rejection added; Urgent section updated |
 | March 18, 2026 | 2.0 | Complete restructure: consistent templates, section reorganization, duplicates removed, email review Mar 4-18 incorporated |
 | March 18, 2026 | 1.1 | Pipeline summary rebuilt; GM referral added; Abacus INT entry added; AAA Life phone screen updated; OneMagnify marked on hold |
 | March 12, 2026 | 1.0 | Initial master consolidation from pipeline v1.0, v3.0, v4.1 |
