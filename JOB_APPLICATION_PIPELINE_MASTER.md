@@ -1,9 +1,9 @@
 # JOB APPLICATION PIPELINE — MASTER
 
-**Last Updated:** March 22, 2026
+**Last Updated:** March 26, 2026
 **Search Start Date:** August 2025
 **Target Roles:** Data Scientist | Data Analyst II+ | Analytics Engineer | ML Engineer
-**Version:** MASTER 2.1 — Weekly review March 22, 2026 (Gmail + iMessage)
+**Version:** MASTER 2.2 — BCBSM applied 3/26; Abacus 2nd virtual complete 3/23; FNBA onsite rescheduled to 3/31
 
 ---
 
@@ -11,23 +11,21 @@
 
 | Priority | Item | Deadline | Details |
 |---|---|---|---|
-| 🔴 #1 | Abacus 2nd Virtual Interview | TOMORROW — 3/23 at 3:00 PM | Virtual Teams; Armando + 2 Sr SWEs + PM; get-to-know-you style |
-| 🔴 #2 | FNBA Final Onsite Interview | Thursday 3/26 at 1:00 PM | In-person, 241 E Saginaw St; whiteboarding + Python (open book); 1.5–2 hrs |
-| 🟡 #3 | Stellantis additional info | ASAP | Complete additional questions via ADP portal |
+| 🔴 #1 | FNBA Final Onsite Interview | Tuesday 3/31 at 1:00 PM | In-person, 241 E Saginaw St; whiteboarding + Python (open book); 1.5–2 hrs |
+| 🟡 #2 | Stellantis additional info | ASAP | Complete additional questions via ADP portal |
 
 ---
 
-## PIPELINE AT A GLANCE — MARCH 22, 2026
+## PIPELINE AT A GLANCE — MARCH 26, 2026
 
 | Status | Count | Roles |
 |---|---|---|
-| 🔴 Final Round — This Week | 2 | Abacus (2nd virtual 3/23 3PM); FNBA (final onsite 3/26 1PM) |
-| 🔵 Interview Completed — Awaiting Decision | 1 | MSU (3/3 done) |
-| ✅ Assessment Complete | 1 | FNBA Codility — 100% score |
+| 🔴 Final Round — Next Week | 1 | FNBA (final onsite 3/31 1PM) |
+| 🔵 Interview Completed — Awaiting Decision | 2 | MSU (3/3 done); Abacus (2nd virtual 3/23 done, went well) |
 | 📞 Phone Screen Completed — Advancing | 1 | AAA Life BI Analyst III (Round 1 pending with Janicia Koh) |
 | 🟡 Active Advocacy | 2 | Stellantis x2 (David Cohle referral) |
 | 🟡 Referral Applied | 1 | General Motors (Crystle Hagler, applied ~3/20) |
-| 🟢 Applied — Awaiting Response | 8 | Emory Healthcare, Invenio, Auto-Owners x2, Buyers Edge, Swayable, Meijer, Mayo Clinic |
+| 🟢 Applied — Awaiting Response | 9 | Emory Healthcare, Invenio, Auto-Owners x2, Buyers Edge, Swayable, Meijer, Mayo Clinic, BCBSM DSA I |
 | ⏸️ On Hold | 1 | OneMagnify Statistical Modeler (Q2 2026) |
 | 🎯 To Apply — Priority Queue | 4 | See Section 5 |
 | 🔴 Closed / Rejected | 8 | See Section 6 |
@@ -39,9 +37,9 @@
 
 ### [INT-01] Senior Data Scientist — Abacus Global Management
 
-**Status:** 🔴 2ND VIRTUAL INTERVIEW TOMORROW — 3/23 at 3:00 PM
-**Last Action:** March 20 — Armando enjoyed 1st interview; 2nd virtual confirmed for 3/23 at 3PM
-**Next Action:** Prep for 2nd virtual — get-to-know-you style, career walkthrough, tools + project challenges
+**Status:** 🔵 2ND VIRTUAL INTERVIEW COMPLETE — Awaiting follow up from Abacus
+**Last Action:** March 23 — 2nd virtual completed; went well; awaiting Abacus follow up
+**Next Action:** Await Abacus follow up (potential Round 3 fly-to-Orlando onsite)
 
 | Field | Details |
 |---|---|
@@ -64,6 +62,7 @@
 - 3/19 — **1st virtual interview completed at 2:00 PM** (MS Teams; Nolan joined to admit past lobby)
 - 3/20 — Nolan text: Armando "really enjoyed the conversation"; invited back for 2nd virtual
 - 3/20 — **2nd virtual interview confirmed: Monday 3/23 at 3:00 PM**
+- 3/23 — **2nd virtual interview completed** — went well; awaiting follow up from Abacus
 
 #### Interview Details — Round 2 (3/23 at 3:00 PM)
 - **Format:** Virtual (Microsoft Teams), ~1 hour
@@ -94,8 +93,8 @@
 
 ### [INT-02] AI/ML Engineer — First National Bank of America
 
-**Status:** 🔴 FINAL ONSITE INTERVIEW — Thursday 3/26 at 1:00 PM (IN-PERSON)
-**Last Action:** March 20 — 100% Codility score; final onsite confirmed 3/26; Matt gave strong feedback
+**Status:** 🔴 FINAL ONSITE INTERVIEW — Tuesday 3/31 at 1:00 PM (IN-PERSON) — RESCHEDULED
+**Last Action:** March 26 — Final onsite rescheduled from 3/26 to 3/31 at 1:00 PM
 **Next Action:** Prep for whiteboarding + Python problem solving; open book (Google & Claude ok; focus on reasoning not memorization)
 
 | Field | Details |
@@ -123,9 +122,10 @@
 - 3/20 — **Codility result: 100% score**
 - 3/20 — Nolan text: Matt felt interview went very well; described Sharod as "very easy to talk to, much easier than a couple of his other interviews"
 - 3/20 — **Final onsite confirmed: Thursday 3/26 at 1:00 PM** (1.5–2 hrs)
+- 3/26 — **Final onsite rescheduled to Tuesday 3/31 at 1:00 PM**
 - 3/20 — Final round format details received from Nolan (see below)
 
-#### Interview Details — Final Onsite (3/26 at 1:00 PM)
+#### Interview Details — Final Onsite (3/31 at 1:00 PM — rescheduled from 3/26)
 - **Format:** In-person, 1.5–2 hours, business professional dress
 - **Address:** 241 E Saginaw St, East Lansing, MI 48823 (guest parking near front; check in at front desk for Matt Crockett)
 - **Interviewers:** Matt Crockett (VP AI/ML) + additional team members
@@ -553,6 +553,43 @@ Full JD archived in source documents.
 **Strategy:** Targeted 1-page resume; Genomics Core framed as clinical research environment; Jackson capstone as large-scale regulated-data ML evidence
 
 **Additional details:** Job ID 366441; Department: Mayo Clinic Platform; Travel: 10%+ may be required
+
+---
+
+### [APP-09] Data Science Analyst I — Blue Cross Blue Shield of Michigan
+
+**Status:** 🟢 Applied — Awaiting response
+**Last Action:** March 26 — Full application submitted (resume, cover letter, application questions, achievement response)
+**Next Action:** Await recruiter contact
+
+| Field | Details |
+|---|---|
+| **Company** | Blue Cross Blue Shield of Michigan Mutual Insurance Company |
+| **Role Title** | Data Science Analyst I |
+| **Job ID** | 13982 |
+| **Location** | Detroit, MI — 600 E Lafayette Blvd, 48226 (Hybrid) |
+| **Work Mode** | Hybrid |
+| **Salary** | Not listed |
+| **Fit %** | ~85% |
+| **Application Date** | March 26, 2026 |
+| **Application Method** | BCBSM online careers portal |
+| **Recruiter / Contact** | TBD |
+| **Source** | Job board |
+
+#### Activity Log
+- 3/26 — Full application submitted: resume (Resume_BCBSM_DSA_I_13982.md), cover letter, 3 application questions, achievement response
+- 3/26 — Application materials folder: Apps/Job_Applications/BCBSM_DataScienceAnalyst_I_13982_20260326/
+
+#### Role Summary
+- Conduct data discovery and analysis; develop moderately complex ML algorithms under technical lead supervision
+- Data mining: pattern discovery, insight generation, inference derivation using Python
+- ML algorithms: logistic regression, random forests, gradient boosting
+- Statistical analyses and Tableau visualizations
+- Communicate analytic insights to project technical lead
+- Departmental preference: GenAI tool usage with validation for accuracy, bias, and compliance
+
+**Strengths:** MS DS&ML (preferred credential met); Python + ML depth; Student Retention 9-model comparison directly analogous to member risk stratification; STT890 insurance analytics capstone (850K rows); Tableau dashboard experience; equity-aware modeling (fairlearn); GenAI validation practices (SHAP + fairlearn MetricFrame)
+**Gaps:** Entry-level (1 yr preferred, satisfied by DA-II + graduate projects); no BCBSM-specific healthcare domain experience (nonprofit health insurer context is new)
 
 ---
 
