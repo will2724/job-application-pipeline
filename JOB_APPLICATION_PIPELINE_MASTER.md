@@ -1,35 +1,40 @@
 # JOB APPLICATION PIPELINE — MASTER
 
-**Last Updated:** March 26, 2026
+**Last Updated:** April 5, 2026
 **Search Start Date:** August 2025
 **Target Roles:** Data Scientist | Data Analyst II+ | Analytics Engineer | ML Engineer
-**Version:** MASTER 2.2 — BCBSM applied 3/26; Abacus 2nd virtual complete 3/23; FNBA onsite rescheduled to 3/31
+**Version:** MASTER 2.3 — ✅ SEARCH COMPLETE: FNBA offer accepted; starting 4/15/2026
 
 ---
 
-## ⚠️ URGENT — ACTION REQUIRED
+## ✅ SEARCH COMPLETE — OFFER ACCEPTED
 
-| Priority | Item | Deadline | Details |
-|---|---|---|---|
-| 🔴 #1 | FNBA Final Onsite Interview | Tuesday 3/31 at 1:00 PM | In-person, 241 E Saginaw St; whiteboarding + Python (open book); 1.5–2 hrs |
-| 🟡 #2 | Stellantis additional info | ASAP | Complete additional questions via ADP portal |
+| Field | Details |
+|---|---|
+| **Role** | AI & Machine Learning Engineer |
+| **Company** | First National Bank of America (via CFS) |
+| **Start Date** | Tuesday, April 15, 2026 at 8:30 AM |
+| **Location** | 241 E Saginaw St, East Lansing, MI 48823 |
+| **Manager** | Matt Crockett, VP AI/ML |
+| **Pay Rate** | $48.00/hr (contract via CFS) |
+| **Salary (annualized)** | ~$100,000 (at floor of $100–130K range) |
+| **Structure** | Contract-to-hire via CFS; conversion expected ~3 months; up to 6 months |
+| **Conversion target** | $110,000–$115,000 (negotiate at conversion — do not accept $100K direct) |
 
 ---
 
-## PIPELINE AT A GLANCE — MARCH 26, 2026
+## PIPELINE AT A GLANCE — APRIL 5, 2026
 
 | Status | Count | Roles |
 |---|---|---|
-| 🔴 Final Round — Next Week | 1 | FNBA (final onsite 3/31 1PM) |
-| 🔵 Interview Completed — Awaiting Decision | 2 | MSU (3/3 done); Abacus (2nd virtual 3/23 done, went well) |
-| 📞 Phone Screen Completed — Advancing | 1 | AAA Life BI Analyst III (Round 1 pending with Janicia Koh) |
+| ✅ Accepted — Starting 4/15 | 1 | FNBA AI/ML Engineer |
+| 🔴 Closed / Rejected | 10 | Abacus (2nd place); MSU; see Section 6 |
+| 📞 Phone Screen Completed — Advancing | 1 | AAA Life BI Analyst III (on hold — FNBA accepted) |
 | 🟡 Active Advocacy | 2 | Stellantis x2 (David Cohle referral) |
 | 🟡 Referral Applied | 1 | General Motors (Crystle Hagler, applied ~3/20) |
 | 🟢 Applied — Awaiting Response | 9 | Emory Healthcare, Invenio, Auto-Owners x2, Buyers Edge, Swayable, Meijer, Mayo Clinic, BCBSM DSA I |
 | ⏸️ On Hold | 1 | OneMagnify Statistical Modeler (Q2 2026) |
-| 🎯 To Apply — Priority Queue | 4 | See Section 5 |
-| 🔴 Closed / Rejected | 8 | See Section 6 |
-| 🤝 Networking | 1 | Morgan Galvan, Verde Capital Management |
+| 🤝 Networking | 2 | Morgan Galvan (Verde Capital); Justin Leslie (LinkedIn recruiter — call 4/9) |
 
 ---
 
@@ -37,9 +42,9 @@
 
 ### [INT-01] Senior Data Scientist — Abacus Global Management
 
-**Status:** 🔵 2ND VIRTUAL INTERVIEW COMPLETE — Awaiting follow up from Abacus
-**Last Action:** March 23 — 2nd virtual completed; went well; awaiting Abacus follow up
-**Next Action:** Await Abacus follow up (potential Round 3 fly-to-Orlando onsite)
+**Status:** 🔴 CLOSED — Not selected (2nd place)
+**Last Action:** ~Late March — Nolan informed Sharod that Abacus went with another candidate with more production experience
+**Next Action:** None — closed
 
 | Field | Details |
 |---|---|
@@ -63,6 +68,7 @@
 - 3/20 — Nolan text: Armando "really enjoyed the conversation"; invited back for 2nd virtual
 - 3/20 — **2nd virtual interview confirmed: Monday 3/23 at 3:00 PM**
 - 3/23 — **2nd virtual interview completed** — went well; awaiting follow up from Abacus
+- ~Late March — **Not selected** — Abacus went with a candidate with more production experience. Sharod finished 2nd. Had been leaning toward FNBA if both offers came in anyway.
 
 #### Interview Details — Round 2 (3/23 at 3:00 PM)
 - **Format:** Virtual (Microsoft Teams), ~1 hour
@@ -93,9 +99,9 @@
 
 ### [INT-02] AI/ML Engineer — First National Bank of America
 
-**Status:** 🔴 FINAL ONSITE INTERVIEW — Tuesday 3/31 at 1:00 PM (IN-PERSON) — RESCHEDULED
-**Last Action:** March 26 — Final onsite rescheduled from 3/26 to 3/31 at 1:00 PM
-**Next Action:** Prep for whiteboarding + Python problem solving; open book (Google & Claude ok; focus on reasoning not memorization)
+**Status:** ✅ OFFER ACCEPTED — Starting April 15, 2026
+**Last Action:** April 1 — CFS onboarding confirmation received from Nolan. Start date 4/15 at 8:30 AM.
+**Next Action:** Complete ADP onboarding (tax forms, I-9, direct deposit). Timesheet setup at cfstaffing.com.
 
 | Field | Details |
 |---|---|
@@ -122,8 +128,16 @@
 - 3/20 — **Codility result: 100% score**
 - 3/20 — Nolan text: Matt felt interview went very well; described Sharod as "very easy to talk to, much easier than a couple of his other interviews"
 - 3/20 — **Final onsite confirmed: Thursday 3/26 at 1:00 PM** (1.5–2 hrs)
-- 3/26 — **Final onsite rescheduled to Tuesday 3/31 at 1:00 PM**
+- 3/26 — **Final onsite rescheduled to Tuesday 3/31 at 1:00 PM** (Matt wanted Senior DS Andy present)
 - 3/20 — Final round format details received from Nolan (see below)
+- 3/31 — **Final onsite interview completed** — Matt Crockett + Andy (Senior DS) present first hour; BI professional, data engineer, software developer final hour
+  - Phase 1 (EDA/IDA): summary stats, missing values, `.describe()`, correlations, transformations
+  - Phase 2 (Modeling): imbalanced multi-class (~75% A, 20% B, 5% C); logistic regression baseline; F1/precision/recall emphasis over accuracy; train-test split + holdout/CV; Andy probed linear vs. non-linear
+  - Phase 3 (RAG): high-level walkthrough — ingestion, chunking, embedding, vector storage, retrieval, generation, audit trail, monitoring (time limited)
+  - Second hour: AI/MLOps experience, large data, fast-paced environment, Claude Code usage, personal background
+  - Nolan note: exercise typically takes 1.5–2 hrs to complete fully
+- 4/1 — **Offer confirmed** — CFS onboarding email received. $48.00/hr. Start 4/15 at 8:30 AM.
+- 4/1 — Nolan confirmed salary submitted at $110K; CIO unlikely to move from $100K floor. Merit increase 4–6% at year-end. Opportunity to advance to senior role.
 
 #### Interview Details — Final Onsite (3/31 at 1:00 PM — rescheduled from 3/26)
 - **Format:** In-person, 1.5–2 hours, business professional dress
